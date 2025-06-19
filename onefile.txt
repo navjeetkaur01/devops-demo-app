@@ -1,4 +1,7 @@
 
 this is a random file
 adding another line 
+HEAD
 another line added by user1
+changes done by user2
+
